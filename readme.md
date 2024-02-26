@@ -8,3 +8,31 @@ The farmer breeds three species:
 
 The farmer has counted his animals and he gives you a subtotal for each species.
 You have to implement a function that returns the total number of legs of all the animals.
+
+                                                Ex2. "&&"
+
+The && operator takes two boolean values, and returns true if both values are true.
+
+Consider a && b:
+
+* a is checked if it is true or false.
+* If a is false, false is returned.
+* b is checked if it is true or false.
+* If b is false, false is returned.
+* Otherwise, true is returned (as both a and b are therefore true ).
+* The && operator will only return true for true && true.
+
+                                              Ex3. "Are the same numbers?"
+
+Create a function that returns true when num1 is equal to num2; otherwise return false.
+
+* isSameNum(4, 8) ➞ false
+
+
+                                              Ex4. "football points"
+
+Create a function that takes the number of wins, draws and losses and calculates the number of points a football team has obtained so far.
+
+* wins get 3 points
+* draws get 1 point
+* losses get 0 points
