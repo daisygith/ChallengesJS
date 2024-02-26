@@ -20,7 +20,8 @@ Consider a && b:
 * b is checked if it is true or false.
 * If b is false, false is returned.
 * Otherwise, true is returned (as both a and b are therefore true ).
-* The && operator will only return true for true && true.
+  * The && operator will only return true for true && true.
+
 
                                               Ex3. "Are the same numbers?"
 
