@@ -37,3 +37,15 @@ Create a function that takes the number of wins, draws and losses and calculates
 * wins get 3 points
 * draws get 1 point
 * losses get 0 points
+
+
+                                              Ex5. "convert into seconds"
+
+Write a function that takes two integers (hours, minutes), converts them to seconds, and adds them.
+
+
+                                              Ex6. "Fix the function"
+
+Fix the code in the Code tab so the function returns true if and only if x is equal to 7.
+
+Ex7. ""
