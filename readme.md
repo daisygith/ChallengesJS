@@ -48,4 +48,8 @@ Write a function that takes two integers (hours, minutes), converts them to seco
 
 Fix the code in the Code tab so the function returns true if and only if x is equal to 7.
 
-Ex7. ""
+                                              Ex7. "Change Color"
+
+Write the code which change background color by press button "Click Me!"
+
++ can use css
