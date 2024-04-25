@@ -56,3 +56,24 @@ Write the code which change background color by press button "Click Me!"
 
                                               Ex8. "Find number"
 find a given number.
+
+                                              Ex9. "DOM 1"
+
+sample html file with a submit button. Now modify the style of the paragraph text through javascript code.
+Clicking on the button the font, font size, and color of the paragraph text will be changed.
+
+                                              Ex10. "DOM 2"
+
+Write a JavaScript function to get the values of First and Last names of the following form.
+
+                                              Ex11. "DOM 3"
+
+Write a JavaScript program to set paragraph background color.
+
+                                              Ex12. "DOM 4"
+
+Here is a sample HTML file with a submit button. Write a JavaScript function to get the value of the href, hreflang, rel, target, and type attributes of the specified link.
+
+                                              Ex13. "DOM 5"
+
+Write a JavaScript function to add rows to a table.
