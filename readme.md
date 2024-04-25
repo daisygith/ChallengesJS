@@ -53,3 +53,6 @@ Fix the code in the Code tab so the function returns true if and only if x is eq
 Write the code which change background color by press button "Click Me!"
 
 + can use css
+
+                                              Ex8. "Find number"
+find a given number.
